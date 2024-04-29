@@ -1,2 +1,4 @@
-### Experience with
-## Java, HTML, CSS, Intellij, Bukkit-API, Nukkit-API, JDA
+# ☕️ Java development 
+## SpringBoot, Minecraft Plugins, Discord Bots
+
+## Basic HTML, CSS and JavaScript skills 
