@@ -1,4 +1,3 @@
-# ☕️ Java development 
-## SpringBoot, Minecraft Plugins, Discord Bots
+# ☕️ Java & JavaScript developer
 
-## Basic HTML, CSS and JavaScript skills 
+## Minecraft Plugins, Backends, Websites, Discord Bots and more...
