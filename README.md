@@ -1,7 +1,17 @@
 # ☕️ Java & JavaScript developer
 ## Minecraft Plugins, Backends, Websites, Discord Bots and more...
 
-![image](https://avatars.githubusercontent.com/u/120758543?v=4)
+
+  /$$$$$$  /$$   /$$ /$$$$$$ /$$   /$$ /$$$$$$ /$$        /$$$$$$ 
+ /$$__  $$| $$  | $$|_  $$_/| $$$ | $$|_  $$_/| $$       /$$__  $$
+| $$  \ $$| $$  | $$  | $$  | $$$$| $$  | $$  | $$      | $$  \ $$
+| $$  | $$| $$  | $$  | $$  | $$ $$ $$  | $$  | $$      | $$  | $$
+| $$  | $$| $$  | $$  | $$  | $$  $$$$  | $$  | $$      | $$  | $$
+| $$/$$ $$| $$  | $$  | $$  | $$\  $$$  | $$  | $$      | $$  | $$
+|  $$$$$$/|  $$$$$$/ /$$$$$$| $$ \  $$ /$$$$$$| $$$$$$$$|  $$$$$$/
+ \____ $$$ \______/ |______/|__/  \__/|______/|________/ \______/ 
+      \__/                                                        
+                                                                                                                               
 
 # 🔨 Projects I'm involved in
 ## [TheFlames](https://the-flames.de) | [StreamlineCloud](https://streamlinemc.cloud)
