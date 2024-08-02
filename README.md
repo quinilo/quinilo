@@ -1,5 +1,4 @@
 # ☕️ Java & JavaScript developer
-## Minecraft Plugins, Backends, Websites, Discord Bots and more...
 
 ![image](https://raw.githubusercontent.com/quinilo/quinilo/main/img.png)
 # 🔨 Projects I'm involved in
