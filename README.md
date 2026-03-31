@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Quinilo</h1>
-<h3 align="center">I am mainly a Java developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I actually like Java</h3>
 
 ![image](https://raw.githubusercontent.com/quinilo/quinilo/main/img.png)
 
